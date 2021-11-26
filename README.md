@@ -1,4 +1,4 @@
-Myongji University <br />
+Myongji University. Convergence Software_Datatechnology <br />
 Contact: sj6ng2@gmail.com or instagram @wnd180 <br />
 <br />
 <br />
