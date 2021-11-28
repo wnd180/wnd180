@@ -1,5 +1,5 @@
-Myongji University. Convergence Software_Data technology <br />
-Contact: sj6ng2@gmail.com or instagram @wnd180 <br />
+Myongji University. Convergence Software_Data Technology <br />
+Contact: sj6ng2@gmail.com / instagram @wnd180 <br />
 <br />
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnd180&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
