@@ -1,6 +1,6 @@
-Myongji University. Convergence Software_Data Technology <br />
+Myongji University. <br />
+Convergence Software_Data Technology <br />
 Interested in Data science, Front-End <br />
-
 Stock, Block chain, NFT <br />
 
 Contact: sj6ng2@gmail.com / instagram @wnd180 <br />
