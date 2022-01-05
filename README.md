@@ -1,4 +1,4 @@
-Myongji University. <br />
+Myongji University. Seoul.<br />
 Convergence Software_Data Technology <br />
 Interested in Data science, Front-End <br />
 Stock, Block chain, NFT <br />
