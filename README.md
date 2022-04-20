@@ -1,6 +1,6 @@
 Myongji University. Seoul.<br />
 Convergence Software_Data Technology <br />
-Interested in Artificial Intelligence, Data science, IOS<br />
+Interested in Data science, Artificial Intelligence, IOS<br />
 +) Stock, Block chain, NFT <br />
 
 Contact email: sj6ng2@gmail.com / instagram @wnd180 <br />
