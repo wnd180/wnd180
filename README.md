@@ -1,7 +1,6 @@
-<!-- Myongji University. Seoul.<br /> -->
-<!-- Convergence Software_Data Technology <br /> -->
-Gajaeul Elementary School. Seoul.<br />
-Grade 3 Class 1<br/>
+Myongji University. Seoul. <br />
+Convergence Software_Data Technology <br />
+
 Interested in ML Engineering, Data science, Data Engineering, IOS<br />
 +) Stock, Block chain, NFT <br />
 
