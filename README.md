@@ -1,8 +1,8 @@
 Myongji University. Seoul. <br />
 Convergence Software_Data Technology <br />
 
-Interested in ML Engineering, Data science, Data Engineering<br />
-+) Stock, Block chain, NFT <br />
+Interested in ML Engineering, Data Engineering<br />
++) Stock, Block chain <br />
 
 Contact <br />
 LinkedIn : https://www.linkedin.com/in/seongjung/ <br />
