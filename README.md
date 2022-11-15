@@ -1,7 +1,7 @@
 Myongji University. Seoul. <br />
 Convergence Software_Data Technology <br />
 
-Interested in ML Engineering, Data Analysis<br />
+Interested in Data Processing, ML Engineering<br />
 
 Contact <br />
 LinkedIn : https://www.linkedin.com/in/seongjung/ <br />
