@@ -3,7 +3,7 @@ Working at Dunamu Data Scientist
 Undergraduated at Myongji University. Seoul. <br />
 Convergence Software_Data Technology <br />
 
-Interested in Data Processing, ML Engineering<br />
+Interested in Data Science, ML Engineering<br />
 
 Contact <br />
 LinkedIn : https://www.linkedin.com/in/seongjung/ <br />
