@@ -1,5 +1,7 @@
-Myongji University. Seoul. <br />
+Undergraduated at Myongji University. Seoul. <br />
 Convergence Software_Data Technology <br />
+
+Working at Dunamu Data Scientist  
 
 Interested in Data Processing, ML Engineering<br />
 
