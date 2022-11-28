@@ -1,6 +1,4 @@
-Working at Dunamu Data Scientist  
-
-Undergraduated at Myongji University. Seoul. <br />
+Myongji University. Seoul. <br />
 Convergence Software_Data Technology <br />
 
 Interested in Data Science, ML Engineering<br />
