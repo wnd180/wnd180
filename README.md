@@ -1,7 +1,9 @@
 Myongji University. Seoul. <br />
 Convergence Software_Data Technology <br />
+Currently, Working at @dunamu data scientist intern (2022/12 ~ )
 
 Interested in Data Science, ML Engineering<br />
+
 
 Contact <br />
 LinkedIn : https://www.linkedin.com/in/seongjung/ <br />
