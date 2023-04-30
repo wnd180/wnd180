@@ -1,5 +1,5 @@
 
-Working at @Dunamu Data Scientist ( 2022/12 ~ )  
+Working Data Scientist at @Dunamu (2022/12 ~ )  
 
 Myongji University. Seoul. <br />
 Convergence Software_Data Technology <br />
