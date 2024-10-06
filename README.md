@@ -10,7 +10,7 @@
 > Vue.js, Nuxt.js, FastAPI  
 > AWS, Docker, Git ..etc 
 
-#### Eductaion
+#### Education
 > Myongji University. Seoul. <br />
 > Convergence Software Data Technology (2020 ~ )<br />
 
